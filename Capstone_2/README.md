@@ -33,7 +33,7 @@ The analysis compares the territories managed by **Miami Vue** and **Bo Heap** t
 
 | File | Description |
 |------|-------------|
-| Datasets | .csv files used for the analysis |
+| Datasets Folder | .csv files used for the analysis |
 | celik_sales_analysis.ipynb | Full analysis notebook with charts and recommendations |
 | Celik_EmporiUm_Territory_Analysis.pptx | In-class PowerPoint presentation |
 ## Video Presentation
