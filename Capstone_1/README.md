@@ -1,4 +1,4 @@
-# Iowa Liquor Sales Capstone 1
+# Capstone 1:  Iowa Liquor Sales 
 
 ## Project Overview
 
