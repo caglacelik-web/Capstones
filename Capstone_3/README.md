@@ -73,7 +73,7 @@ Data was cleaned and transformed using Power Query by:
 ---
  
 ## Video Link
-Coming soon.
+https://www.loom.com/share/cb7e000717e143acb40996a3552eee32
 
 
 
